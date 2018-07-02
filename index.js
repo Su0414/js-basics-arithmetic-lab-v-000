@@ -16,5 +16,3 @@ if (currentAgeIsInteger) {
 } else {
   ageIsValid = false;
 }
-
-spyOnNumberIsInteger.isInteger();
