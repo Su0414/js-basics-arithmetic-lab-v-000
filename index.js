@@ -18,5 +18,5 @@ if (currentAgeIsInteger) {
 
 spyOnNumberIsInteger = Number.isInteger(ageIsValid)
 
-spyOnMathRandom = Math.random()
-randomNumber= Math.floor(spyOnMathRandom * 20);
+
+randomNumber= Math.floor(Math.random() * 20);
