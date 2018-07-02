@@ -15,6 +15,3 @@ if (currentAgeIsInteger) {
 } else {
   ageIsValid = false;
 }
-
-var spyOnNumberIsInteger
-Number.isInteger(spyOnNumberIsInteger)
