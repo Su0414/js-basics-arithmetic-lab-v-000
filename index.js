@@ -16,7 +16,7 @@ if (currentAgeIsInteger) {
   ageIsValid = false;
 }
 
-spyOnNumberIsInteger = Number.isInteger(ageIsValid)
+ Number.isInteger(ageIsValid)
 
 const randomNumber = Math.random() * 20;
 
