@@ -20,4 +20,4 @@ spyOnNumberIsInteger = Number.isInteger(ageIsValid)
 
 
 let randomNumber ;
-spyOnMathRandom = Math.random(randomNumber)
+spyOnMathRandom = Math.random()
