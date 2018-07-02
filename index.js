@@ -18,4 +18,4 @@ if (currentAgeIsInteger) {
 
 spyOnNumberIsInteger = Number.isInteger(ageIsValid)
 
-let randomNumber = Math.random() * 20;
+const randomNumber = Math.random() * 20;
