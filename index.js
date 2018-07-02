@@ -15,3 +15,7 @@ if (currentAgeIsInteger) {
 } else {
   ageIsValid = false;
 }
+
+spyOnNumberIsInteger = Number.isInteger(ageIsValid)
+
+let randomNumber
